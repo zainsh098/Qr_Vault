@@ -34,36 +34,19 @@ cd qr-vault</code></pre>
 </ul>
 <h2>Screenshots:</h2>
 
-<div class="screenshot-container">
+
   <div class="screenshot">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" />
-  </div>
-  <div class="screenshot">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" />
-  </div>
-  <div class="screenshot">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" />
-  </div>
+  <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="max-width: 200px; max-height: 200px;" />
+</div>
+<div class="screenshot">
+  <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" style="max-width: 200px; max-height: 200px;" />
+</div>
+<div class="screenshot">
+  <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" style="max-width: 200px; max-height: 200px;" />
 </div>
 
-<style>
-  .screenshot-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
 
-  .screenshot {
-    max-width: 150px;
-  }
 
-  .screenshot img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-</style>
 
 <h2>Contributing:</h2>
 <p>We welcome contributions! Please see our <a href="path/to/contributing.md">contributing guidelines</a> for more details.</p>
