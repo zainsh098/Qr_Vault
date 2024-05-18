@@ -33,17 +33,53 @@ cd qr-vault</code></pre>
   <li><a href="https://pub.dev/packages/qr_flutter">QR Flutter</a></li>
 </ul>
 <h2>Screenshots:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="width: 100%; height: 100;" />
+
+<div class="screenshot-container">
+  <div class="screenshot">
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" />
+    <p>Home Screen</p>
   </div>
-  <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" style="width: 100%; height: 100;" />
+  <div class="screenshot">
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" />
+    <p>Scan History</p>
   </div>
-  <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" style="width: 100%; height: 100;" />
+  <div class="screenshot">
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" />
+    <p>Generate QR Code</p>
   </div>
 </div>
+
+<style>
+  .screenshot-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .screenshot {
+    text-align: center;
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+  }
+
+  .screenshot img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .screenshot img:hover {
+    transform: scale(1.05);
+  }
+
+  .screenshot p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+  }
+</style>
 
 <h2>Contributing:</h2>
 <p>We welcome contributions! Please see our <a href="path/to/contributing.md">contributing guidelines</a> for more details.</p>
