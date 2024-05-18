@@ -35,13 +35,13 @@ cd qr-vault</code></pre>
 <h2>Screenshots:</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="width: 100%; height: auto;" />
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="width: 100%; height: 100;" />
   </div>
   <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" style="width: 100%; height: auto;" />
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" style="width: 100%; height: 100;" />
   </div>
   <div style="flex: 1 1 300px;">
-    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" style="width: 100%; height: auto;" />
+    <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" style="width: 100%; height: 100;" />
   </div>
 </div>
 
