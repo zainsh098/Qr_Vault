@@ -36,7 +36,7 @@ cd qr-vault</code></pre>
 
 
   <div class="screenshot">
-  <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="max-width: 200px; max-height: 200px;" />
+  <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" style="max-width: 100px; max-height: 100px;" />
 </div>
 <div class="screenshot">
   <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" style="max-width: 200px; max-height: 200px;" />
