@@ -37,15 +37,12 @@ cd qr-vault</code></pre>
 <div class="screenshot-container">
   <div class="screenshot">
     <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/a1673323-f3e8-491d-91e6-d8e3b0086c79" alt="Home Screen" />
-    <p>Home Screen</p>
   </div>
   <div class="screenshot">
     <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/23087db9-3570-4408-9041-dd5870419d34" alt="Scan History" />
-    <p>Scan History</p>
   </div>
   <div class="screenshot">
     <img src="https://github.com/zainsh098/Qr_Vault/assets/92949137/2f2ed7ff-8c51-4cf2-aa2b-296fa1a36820" alt="Generate QR Code" />
-    <p>Generate QR Code</p>
   </div>
 </div>
 
@@ -57,27 +54,14 @@ cd qr-vault</code></pre>
   }
 
   .screenshot {
-    text-align: center;
-    flex: 1 1 calc(33.33% - 20px);
-    max-width: calc(33.33% - 20px);
+    max-width: 150px;
   }
 
   .screenshot img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-  }
-
-  .screenshot img:hover {
-    transform: scale(1.05);
-  }
-
-  .screenshot p {
-    margin-top: 10px;
-    font-size: 14px;
-    color: #333;
   }
 </style>
 
